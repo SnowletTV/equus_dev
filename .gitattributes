@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+provinces.psd filter=lfs diff=lfs merge=lfs -text
+flatmap.dds filter=lfs diff=lfs merge=lfs -text
+provinces.bmp filter=lfs diff=lfs merge=lfs -text
