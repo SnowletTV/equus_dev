@@ -3,7 +3,24 @@ diplomacy = {
 }
 
 provinces = { #Any entry must contain a comment with city name.
-	
+	2 = {
+		military_building = 2
+	}
+	3 = {
+		military_building = 2
+	}
+	4 = {
+		military_building = 2
+	}
+	6 = {
+		military_building = 2
+	}
+	7 = {
+		military_building = 2
+	}
+	15 = {
+		population_building = 1
+	}
 }
 
 road_network = {
@@ -11,6 +28,22 @@ road_network = {
 
 country = {
 	countries = {
+		ROM = {
+			government = aristocratic_republic
+			diplomatic_stance=warmongering_stance
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 1
+		
+			own_control_core = 	{
+				10 14 11 9
+			}
+			
+			#professional_soldiers = yes
+			#organized_recruitment = yes
+			
+		}
 	}
 }
 

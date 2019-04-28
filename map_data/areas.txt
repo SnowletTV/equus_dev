@@ -6,12 +6,13 @@ roma_area = { #11
 6
 7
 8
-9
-10
-11
 12
 13
-14
 15}
 	# color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
 }
+roma_area2 = { #11
+	provinces = { 10 14 11 9 }
+	# color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
+}
+
