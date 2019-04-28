@@ -1,0 +1,7 @@
+central_italy_region = {		#9 areas
+	areas = {
+		roma_area
+	}
+	
+	# color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
+}

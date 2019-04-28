@@ -1,0 +1,15 @@
+﻿latin = {
+	1 = PROV1_latin #  Roma
+	2 = PROV2_latin #  Tibur
+	3 = PROV3_latin #  Lavinium
+	4 = PROV4_latin #  Circeii
+	5 = PROV5_latin #  Fundi
+	6 = PROV6_latin #  Capua
+	8 = PROV8_latin #  Saticula
+	9 = PROV9_latin #  Pompeii
+	10 = PROV10_latin #  Salerno
+	11 = PROV11_latin #  Paestum
+	12 = PROV12_latin #  Velia
+	14 = PROV14_latin #  Prygi
+	15 = PROV16_latin #  Veii
+}

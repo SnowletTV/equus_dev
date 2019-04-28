@@ -1,0 +1,16 @@
+#ProvID; Culture; Religion; TradeGoods; Citizens; Freedmen; Slaves; Tribesmen; Civilization; Barbarian; NameRef;AraRef
+1,roman,roman_pantheon,cloth,0,0,0,0,0,0,Roma,Latium
+2,roman,roman_pantheon,wine,7,8,6,0,0,0,Tibur,Latium
+3,roman,roman_pantheon,salt,8,8,3,0,0,0,Lavinium,Latium
+4,roman,roman_pantheon,wood,8,8,5,0,0,0,Circeii,Latium
+5,roman,roman_pantheon,cloth,8,8,6,0,0,0,Fundi,Latium
+6,roman,roman_pantheon,wine,7,7,6,0,0,0,Capua,Campania
+7,samnite,roman_pantheon,wood,3,6,3,2,0,0,Neapolis,Campania
+8,samnite,roman_pantheon,cloth,3,4,3,1,0,0,Saticula,Campania
+9,samnite,roman_pantheon,wine,3,5,3,1,0,0,Pompeii,Campania
+10,samnite,roman_pantheon,olive,4,4,3,0,0,0,Irna,Lucania
+11,lucanian,roman_pantheon,wood,2,3,5,2,0,0,Paestum,Lucania
+12,lucanian,roman_pantheon,fish,1,3,4,3,0,0,Velia,Lucania
+13,lucanian,roman_pantheon,wood,3,4,3,2,0,0,Blanda,Lucania
+14,roman,roman_pantheon,hemp,6,6,4,2,0,0,Pyrgi,Etruria
+15,roman,roman_pantheon,iron,5,6,3,1,0,0,Ostia,Latium
