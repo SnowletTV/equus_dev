@@ -3,3 +3,4 @@
 provinces.psd filter=lfs diff=lfs merge=lfs -text
 flatmap.dds filter=lfs diff=lfs merge=lfs -text
 provinces.bmp filter=lfs diff=lfs merge=lfs -text
+flatmap.psd filter=lfs diff=lfs merge=lfs -text
