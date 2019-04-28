@@ -28,7 +28,7 @@ road_network = {
 
 country = {
 	countries = {
-		ROM = {
+		PEG = {
 			government = aristocratic_republic
 			diplomatic_stance=warmongering_stance
 			primary_culture = roman
