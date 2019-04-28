@@ -1,0 +1,19 @@
+diplomacy = {
+	
+}
+
+provinces = { #Any entry must contain a comment with city name.
+	
+}
+
+road_network = {
+}
+
+country = {
+	countries = {
+	}
+}
+
+trade = { #If any are changed also change trade agreements.
+
+}
