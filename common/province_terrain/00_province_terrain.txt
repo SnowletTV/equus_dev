@@ -1,4 +1,5 @@
-﻿default=plains
+﻿default_land=plains
+default_water=ocean
 1=plains
 2=farmland
 3=plains
