@@ -1,0 +1,35 @@
+treasure_manager = {
+}
+family={
+}
+diplomacy = {
+}
+
+provinces = { 	
+}
+road_network = {
+}
+country = {
+	countries = {
+
+		BAR = {
+			government = tribal_chiefdom
+		}
+		
+		ROM = {
+			government = aristocratic_republic
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 1
+		
+			own_control_core = 	{
+				1
+			}
+			
+		}
+	}
+}
+trade = {
+
+}

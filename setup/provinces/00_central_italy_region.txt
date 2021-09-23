@@ -1,0 +1,140 @@
+﻿#Roma
+1={
+	barbarian_power=0
+	civilization_value=44
+	culture="roman"
+	holy_site="omen_jupiter"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="farmland"
+	trade_goods="cloth"
+	nobles=
+	{
+		amount=5
+	}
+	citizen=
+	{
+		amount=20
+	}
+	freemen=
+	{
+		amount=21
+	}
+	slaves=
+	{
+		amount=4
+	}
+	tribesmen=
+	{
+		amount=4
+	}
+}
+#Tibur
+2={
+	barbarian_power=0
+	civilization_value=37
+	culture="roman"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="farmland"
+	trade_goods="wine"
+	citizen=
+	{
+		amount=11
+	}
+	freemen=
+	{
+		amount=12
+	}
+	slaves=
+	{
+		amount=5
+	}
+}
+#Lavinium
+3={
+	barbarian_power=0
+	civilization_value=37
+	culture="roman"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="farmland"
+	trade_goods="salt"
+	citizen=
+	{
+		amount=11
+	}
+	freemen=
+	{
+		amount=10
+	}
+	slaves=
+	{
+		amount=3
+	}
+}
+#Circeii
+4={
+	barbarian_power=0
+	civilization_value=24
+	culture="roman"
+	province_rank="settlement"
+	religion="roman_pantheon"
+	terrain="hills"
+	trade_goods="wood"
+	citizen=
+	{
+		amount=5
+	}
+	freemen=
+	{
+		amount=5
+	}
+	slaves=
+	{
+		amount=1
+	}
+}
+#Fundi
+5={
+	barbarian_power=0
+	civilization_value=24
+	culture="roman"
+	province_rank="settlement"
+	religion="roman_pantheon"
+	terrain="hills"
+	trade_goods="cloth"
+	citizen=
+	{
+		amount=3
+	}
+	freemen=
+	{
+		amount=4
+	}
+	slaves=
+	{
+		amount=4
+	}
+}
+6={
+	barbarian_power=0
+	civilization_value=24
+	culture="roman"
+	province_rank="settlement"
+	religion="roman_pantheon"
+	terrain="hills"
+	trade_goods="cloth"
+	citizen=
+	{
+		amount=3
+	}
+	freemen=
+	{
+		amount=4
+	}
+	slaves=
+	{
+		amount=4
+	}
+}

@@ -1,11 +1,14 @@
 definitions = "definition.csv"
-provinces = "provinces.bmp"
+provinces = "provinces.png"
 positions = "positions.txt"
-terrain = "terrain.bmp"
-rivers = "rivers.bmp"
+rivers = "rivers.png"
 topology = "heightmap.heightmap"
 adjacencies = "adjacencies.csv"
 areas = "areas.txt"
 regions = "regions.txt"
 ports = "ports.csv"
 climate = "climate.txt"
+
+sea_zones = LIST { 9 }
+
+impassable_terrain = LIST { 7 8 }
